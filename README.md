@@ -16,4 +16,5 @@ This project focuses on applying unsupervised learning techniques to perform cus
 
 By leveraging unsupervised learning techniques, this project empowers businesses to uncover hidden patterns and gain a deeper understanding of their customer base. The insights obtained through customer segmentation enable organizations to tailor marketing campaigns, improve customer satisfaction, optimize resource allocation, and ultimately enhance business growth.
 
-# Technologies Used: Python, Machine Learning (Unsupervised Learning), Data Preprocessing, Clustering Algorithms (k-means, hierarchical, Gaussian mixture models), Feature Selection, Dimensionality Reduction (PCA, t-SNE), Data Visualization. 
+# Technologies Used:
+Python, Machine Learning (Unsupervised Learning), Data Preprocessing, Clustering Algorithms (k-means, hierarchical, Gaussian mixture models), Feature Selection, Dimensionality Reduction (PCA, t-SNE), Data Visualization. 
